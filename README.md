@@ -78,3 +78,7 @@ VIII. CONSULTAS EN SQL
 3 Introducción a las bases de datos http://www.nachocabanes.com/tutors/ibd006.pdf
 
 4 Administrador de Base de datos https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4066
+
+EJERCICIOS CLASE
+
+https://www.db-fiddle.com/f/nPcoqExYUJYfNJJ42r3Mz4/0
