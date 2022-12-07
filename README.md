@@ -83,3 +83,4 @@ EJERCICIOS CLASE
 
     https://www.db-fiddle.com/f/nPcoqExYUJYfNJJ42r3Mz4/0 
     https://www.db-fiddle.com/f/nPcoqExYUJYfNJJ42r3Mz4/1 /*estructura*/
+    https://www.db-fiddle.com/f/nPcoqExYUJYfNJJ42r3Mz4/3 /*incompleta*/
