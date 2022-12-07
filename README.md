@@ -88,4 +88,4 @@ EJERCICIOS CLASE
     
     
     https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/0 /*ejemplo*/
-    https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/0 /*ejemplo INNER JOIN*/
+    https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/1 /*ejemplo INNER JOIN*/
