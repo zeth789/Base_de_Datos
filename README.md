@@ -90,3 +90,5 @@ EJERCICIOS CLASE
     https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/0 /*ejemplo*/
     https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/1 /*ejemplo INNER JOIN*/
     https://www.db-fiddle.com/f/g3Q4drFrwMHC1i19dfoNt9/2 /*ejemplo UPDATE*/
+    
+    https://www.db-fiddle.com/f/jt9U3tLcavi1c21KXTJSLb/0 /*ejercicio funciones y SELECT varios INNERJOIN */
