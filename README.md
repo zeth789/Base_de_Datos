@@ -101,5 +101,6 @@ EJERCICIOS CLASE
 
     9. Operaciones en una Base de Datos
     https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/4
+    https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/5
     
     
