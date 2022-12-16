@@ -100,7 +100,7 @@ EJERCICIOS CLASE
     https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/3
     
     8.Triggers
-    https://www.db-fiddle.com/f/5MhG8Zwopsv4No3BB7A94T/0
+    https://www.db-fiddle.com/f/5MhG8Zwopsv4No3BB7A94T/1
 
     9. Operaciones en una Base de Datos
     https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/4
