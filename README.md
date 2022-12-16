@@ -93,4 +93,13 @@ EJERCICIOS CLASE
     
     https://www.db-fiddle.com/f/jt9U3tLcavi1c21KXTJSLb/0 /*ejercicio funciones y SELECT varios INNERJOIN */
     
-    https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/0 /*EJERCICIO 6 MOODLE*/
+    6. Creación de una Base de Datos
+    https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/0
+
+    7. Funciones en SQL
+    https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/3
+
+    9. Operaciones en una Base de Datos
+    https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/4
+    
+    
