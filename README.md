@@ -98,6 +98,9 @@ EJERCICIOS CLASE
 
     7. Funciones en SQL
     https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/3
+    
+    8.Triggers
+    https://www.db-fiddle.com/f/5MhG8Zwopsv4No3BB7A94T/0
 
     9. Operaciones en una Base de Datos
     https://www.db-fiddle.com/f/2SxXNe4E1b7dpUwKxQGwXT/4
